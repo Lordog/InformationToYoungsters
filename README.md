@@ -3,6 +3,8 @@
 
 希望能对学弟学妹们有所帮助
 
+想神的ppt是在srtp官方咨询群里搞的，应该不会侵权吧orz
+
 一部分CS电子书资源详见github地址: 
 
 https://github.com/huihut/CS-Books/tree/master
